@@ -1,0 +1,15 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #44e2e2;
+  font-family: "Shadows Into Light",cursive;
+  
+}
+
+ div{
+  display: block;
+} 
